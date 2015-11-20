@@ -45,3 +45,5 @@ Thumbs.db
 hw1/config.cfg
 hw1/venv/*
 *.config
+
+hw1/settings.config
